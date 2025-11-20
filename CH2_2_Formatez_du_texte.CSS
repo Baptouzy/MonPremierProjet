@@ -1,0 +1,31 @@
+h1{
+
+
+    color: red;
+    font-family: Arial;
+    font-size: 20;
+    background-color: yellow;
+}
+#Les2lignesuivantes{
+    font-family: Arial;
+    font-size:16px;
+    color:purple;
+    margin-top:20px;
+    text-align: center;
+
+}
+#Lesdeuxparagraphes{
+    font-family: Arial;
+    font-size: 11px;
+    text-indent : 20px; 
+    margin-top:25px;
+    margin-bottom:25px;
+}
+.premier123{
+    color: blue;
+    font-family: Arial;
+    font-size:11px;
+    text-indent : 20px;
+    margin-top:25px;
+    margin-bottom:25px;
+}
