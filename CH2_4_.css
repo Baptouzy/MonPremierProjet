@@ -1,0 +1,53 @@
+body{background-color: gray;
+color: aliceblue;}
+.article1{
+    
+    background-image: url(Img/GoofyTux-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-color: rgba(7, 124, 120, 0.349);
+    border:7px dashed orange;
+    background-size:200px;
+    background-position-y:-16px ;
+    background-position-x: -15px;
+    margin-left:29px;
+
+    
+}
+.article2{
+outline:7px dashed orange;
+background-color: rgba(32, 167, 14, 0.349);
+background-image:url(Img/GoofyTux-removebg-preview.png);
+background-repeat: no-repeat;
+background-size:382px;
+background-position-y:-16px ;
+    background-position-x: -15px;
+    margin-left:35px;
+
+}
+.article3{
+outline:7px dashed orange;
+background-color: rgba(97, 4, 81, 0.349);
+background-image:url(Img/GoofyTux-removebg-preview.png);
+background-repeat: no-repeat;
+background-size:140px;
+background-position-y:-8px ;
+background-position-x: -15px;
+outline-offset:15px;
+margin-left:50px;
+margin-top: 50px;
+margin-bottom:50px;
+
+
+}
+h1:hover{color:green}
+h2:hover{color:green}
+h3:hover{color:green}
+h1:active{text-decoration: underline;}
+h2:active{text-decoration: underline;}
+h3:active{text-decoration: underline;}
+article:hover{font-style: italic;}
+a:hover{color:azure}
+a{color:white;
+text-decoration:none;}
+
+

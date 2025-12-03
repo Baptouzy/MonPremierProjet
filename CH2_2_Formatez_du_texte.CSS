@@ -14,7 +14,7 @@ h1{
     text-align: center;
 
 }
-#Lesdeuxparagraphes{
+.Lesdeuxparagraphes{
     font-family: Arial;
     font-size: 11px;
     text-indent : 20px; 
@@ -24,8 +24,36 @@ h1{
 .premier123{
     color: blue;
     font-family: Arial;
-    font-size:11px;
+    font-size:15px;
+    font-weight:bold;
     text-indent : 20px;
     margin-top:25px;
     margin-bottom:25px;
 }
+.Decetteepoque{
+ font-family: "Times New Roman",Times,serif;
+  font-size:16px;
+  font-style:italic;
+  margin-left:1em;
+  margin-right:1em;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+.lesneuf{ 
+  font-size:13px;
+  text-decoration:underline;
+}
+.alinéa{
+
+    text-indent:12px;
+    margin-top: 10px;
+    margin-bottom:20px;
+}
+.alinéa1{
+    text-indent:10px;
+    font-style:italic;
+    margin-top:10px;
+    margin-bottom:20px;
+}
+.alinéa2{margin-top:10px;
+margin-bottom:20px;}

@@ -1,0 +1,28 @@
+h1{
+    color: blueviolet;
+    font-size: 25px;
+
+
+
+}
+.section{
+    background-color:rgba(255, 0, 0, 0.397);
+    color :aliceblue;
+
+}
+.article1{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgba(255, 0, 0, 0.572);
+    background-image: url(Img/pingouin.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:250px;
+}
+body{
+    background-image: url(Img/pingouin.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-color:rgba(0, 128, 0, 0.544);
+    background-image:;
+}

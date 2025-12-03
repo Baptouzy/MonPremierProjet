@@ -1,0 +1,14 @@
+body{
+     background-image:url(Img/pingouin.png),url(Img/feuilles.png) ;
+     background-repeat: no-repeat,repeat;
+     background-attachment: fixed,scroll;
+     background-position: top,center;
+}
+    
+
+.text{color:white;}
+
+h1{color: blueviolet;}
+
+.source{font-style: italic;
+color: aliceblue;}
